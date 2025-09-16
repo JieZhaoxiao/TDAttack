@@ -6,7 +6,13 @@
 <div>
   <img src="fig/Overview.png" width="90%" alt="Overview">
 </div>
-   
+
+## Visualization
+
+<div>
+  <img src="fig/Visual-1.png" width="90%" alt="Visual">
+</div>
+
 ## Requirements
 
 1. Hardware Requirements
@@ -76,12 +82,6 @@
 <div>
   <img src="fig/Visual-2.png" width="90%" alt="Visual">
 </div>
-
-
-<div>
-  <img src="fig/Visual-1.png" width="90%" alt="Visual">
-</div>
-
 
 <div>
   <img src="fig/Results-1.png" width="90%" alt="Results">
